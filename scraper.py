@@ -1,4 +1,5 @@
 import json
+from random import randrange
 from bs4 import BeautifulSoup
 import urllib.request
 import concurrent.futures
@@ -9,6 +10,8 @@ class Scraper:
         self.baseurl = "https://go.sfss.ca"
         html = urllib.request.urlopen(f"{self.baseurl}/clubs/list")
         self.soup = BeautifulSoup(html, features="html.parser")
+        self.tags = ['social', 'cultural', 'tech', 'wellbeing', 'innovation', 'health',
+                     'friendship', 'club', 'food', 'dance', 'sports', 'arts', 'science', 'space']
 
     def create_thread(self, url):
         club = {}
@@ -43,7 +46,17 @@ class Scraper:
         if 'clubName' not in club:
             club['clubName'] = ""
 
+
         club['university'] = 1
+        club['tags'] = []
+
+        idxs = set()
+        while (len(idxs) < 3):
+            idxs.add(randrange(len(self.tags)))
+
+        for idx in list(idxs):
+            club['tags'].append(self.tags[idx])
+
         return club
 
     def scrape(self):

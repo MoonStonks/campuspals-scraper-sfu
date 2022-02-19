@@ -1,0 +1,2355 @@
+[
+  {
+    "clubName": "SFU Sports Analytics Club",
+    "imgURL": "https://go.sfss.ca/clubs/620/logo",
+    "description": "Where data and sports come together. We aim to connect individuals interested in sports, data, or analysis to share ideas and opinions. As data is more prevalent and publicly available than ever, we promote the importance of usage of data to investigate sports-related issues in the light of improving performance and strategies.",
+    "email": "sfusac@sfu.ca",
+    "website": "http://www.vansash.com",
+    "university": 1,
+    "tags": [
+      "food",
+      "space",
+      "health"
+    ]
+  },
+  {
+    "clubName": "VeggieSFU",
+    "imgURL": "https://go.sfss.ca/clubs/747/logo",
+    "description": "We intend to: Foster awareness, open discussion and critical thinking to the nutritional values of a plant based lifestyle. Bring awareness about animal rights where factory farmed animals are concerned.\r\nTo be inclusive: open to ALL people, regardless of being vegan or not. We only require that you be open minded, open to learning, and respectful.",
+    "email": "vegSFU@sfu.ca",
+    "website": "www.facebook.com/veggiesfu/",
+    "university": 1,
+    "tags": [
+      "sports",
+      "tech",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Google Developer Student Club - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/878/logo",
+    "description": "To empower students across all majors to use modern technology to solve real-life problems in our community. Our founding principles are growth, collaboration, and innovation, and we intend to keep this principle in every networking event, competition, tech talk, and workshop we organize.",
+    "email": "sfu.gdsc@gmail.com",
+    "website": "https://gdsc.community.dev/simon-fraser-university/",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "science",
+      "club"
+    ]
+  },
+  {
+    "clubName": "SFU Robot Soccer",
+    "imgURL": "https://go.sfss.ca/clubs/721/logo",
+    "description": "SFU\u2019s first Robot Soccer club aims to combine the excitement of soccer with the future of automated technology as we compete in RoboCupSoccer. Our team encourages students from all programs to come together and learn concepts that are not taught in class and get hands-on experience with robotics, artificial intelligence, and teamwork.",
+    "email": "sfurs@sfu.ca",
+    "website": "www.sfuskynet.ca",
+    "university": 1,
+    "tags": [
+      "social",
+      "dance",
+      "sports"
+    ]
+  },
+  {
+    "clubName": "Speech and Hearing Club",
+    "imgURL": "https://go.sfss.ca/clubs/851/logo",
+    "description": "This club is for prospective Speech-Language Pathologists and Audiologists who want to maximize their ability to get into graduate school.",
+    "email": "sfss_shlub@sfu.ca",
+    "website": "www.facebook.com/groups/shlub",
+    "university": 1,
+    "tags": [
+      "science",
+      "friendship",
+      "club"
+    ]
+  },
+  {
+    "clubName": "CFC-Youth",
+    "imgURL": "https://go.sfss.ca/clubs/143/logo",
+    "description": "CFC-Youth Campus-Based is a youth ministry affiliated with Couples for Christ that work towards the renewal of the society by raising servant leaders grounded on Christian values, witnessing God through the campuses. It provides university students and faculty with opportunities to learn about the Catholic faith through fun and fellowship.",
+    "email": "cfcyouthsfu@gmail.com",
+    "website": "https://www.facebook.com/groups/cfcyouthsfu/",
+    "university": 1,
+    "tags": [
+      "wellbeing",
+      "arts",
+      "innovation"
+    ]
+  },
+  {
+    "clubName": "Choir - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/151/logo",
+    "description": "To have fun and make awesome music! No experience necessary.",
+    "email": "info@sfuchoir.ca",
+    "website": "sfuchoir.ca/",
+    "university": 1,
+    "tags": [
+      "dance",
+      "science",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Outdoors Club - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/38/logo",
+    "description": "The Outdoors Club is a group of SFU students who love to be outside and are passionate about outdoor sports.\r\nOur members enjoy hiking, rock climbing, mountain biking, kayaking, snow shoeing, skiing, and pretty much\r\nanything that gets us out in nature and having fun.",
+    "email": "info-sfuoutdoorsclub@sfu.ca",
+    "website": "www.facebook.com/groups/1481048385508320/",
+    "university": 1,
+    "tags": [
+      "social",
+      "space",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Healthology",
+    "imgURL": "https://go.sfss.ca/clubs/882/logo",
+    "description": "Create a healthier community where mental health and health-related challenges are addressed.",
+    "email": "info@theHealthology.ca",
+    "website": "https://www.theHealthology.ca",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "health",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "SFU French Conversation Club",
+    "imgURL": "https://go.sfss.ca/clubs/744/logo",
+    "description": "The SFU French Conversation Club is open to all members of the SFU community who like to speak French. We aim to create a casual place for French speakers of various skill levels to enjoy conversation and games, practising the langue de Moli\u00e8re the whole time!",
+    "email": "frenchcc@sfu.ca",
+    "website": "www.facebook.com/SFUFCC",
+    "university": 1,
+    "tags": [
+      "dance",
+      "science",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Campus Vibe Movement",
+    "imgURL": "https://go.sfss.ca/clubs/641/logo",
+    "description": "Campus Vibe exists to equip people studying and working on campus with purpose and passion so that they see, express, and have the power of Christ",
+    "email": "calvary@sfu.ca",
+    "website": "https://www.facebook.com/CampusVibeMovement/",
+    "university": 1,
+    "tags": [
+      "sports",
+      "tech",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "AIESEC",
+    "imgURL": "https://go.sfss.ca/clubs/101/logo",
+    "description": "The world's largest student-run non-profit organization, developing leadership in youth through cross-cultural volunteer and internehip exchanges.",
+    "email": "aiesec@sfu.ca",
+    "website": "www.aiesec.ca/signup",
+    "university": 1,
+    "tags": [
+      "dance",
+      "space",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Women In Engineering",
+    "imgURL": "https://go.sfss.ca/clubs/255/logo",
+    "description": "Women in Engineering club stands for diversity, inclusion, and representation of minorities in engineering. We are a club that aims to empower women in STEM through events with a focus toward outreach, support, and career development.Through these events, WiE promotes",
+    "email": "wie@sfu.ca",
+    "website": "https://www.sfu.ca/clubs/wie.html",
+    "university": 1,
+    "tags": [
+      "tech",
+      "wellbeing",
+      "innovation"
+    ]
+  },
+  {
+    "clubName": "Canadian Liver Foundation SFU",
+    "imgURL": "https://go.sfss.ca/clubs/876/logo",
+    "description": "We strive towards promoting liver disease awareness by providing education to the community. The CLF SFU Club actively engages in fundraising, volunteering and health promotion activities to support a worthwhile cause, by gathering donations for the CLF to fund liver disease research and patient treatment necessities.",
+    "email": "clfsfu@gmail.com",
+    "website": "https://",
+    "university": 1,
+    "tags": [
+      "social",
+      "cultural",
+      "arts"
+    ]
+  },
+  {
+    "clubName": "LIT Events",
+    "imgURL": "https://go.sfss.ca/site_images/sfss_logo.png",
+    "description": "By providing opportunities of student recreation and formal academic events, SFU students are expected to enjoy and learn from the meaningful and impressive social activities. Meanwhile, we are willing to make the most of our experience and knowledge to make a positive impact on the whole student society.",
+    "email": "info@litevent.ca",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "sports",
+      "space",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Team Guardian",
+    "imgURL": "https://go.sfss.ca/clubs/781/logo",
+    "description": "Team Guardian designs, builds, and deploys unmanned aerial systems (UAS) to participate in national and international competitions. We welcome and bring together students from various backgrounds - from engineering to communications - to develop new skills and work on the edge of UAS technology.",
+    "email": "uavexec@sfu.ca",
+    "website": "https://www.teamguardiansfu.com/",
+    "university": 1,
+    "tags": [
+      "social",
+      "dance",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Arab Students' Association",
+    "imgURL": "https://go.sfss.ca/clubs/776/logo",
+    "description": "The Arab Students' Association is here to celebrate the diverse cultures and experiences that unite under a collective Arab identity. The ASA aims at bringing together SFU's Arab students and all those who identify or connect with an Arab society. By holding a variety of cultural events, we also invite the broader community to engage with us.",
+    "email": "Arabs@sfu.ca",
+    "website": "www.facebook.com/sfuarabsstudentassociation/",
+    "university": 1,
+    "tags": [
+      "social",
+      "cultural",
+      "wellbeing"
+    ]
+  },
+  {
+    "clubName": "SFU Paintball",
+    "imgURL": "https://go.sfss.ca/clubs/750/logo",
+    "description": "My mandate for this club is to promote paintball around the university and provide a unique environment for obtaining leadership skills, outdoor experience and teamwork. We will be organizing events each week or biweekly at Ambush Paintball to get a hands on experience. Hosting paintball fundraisers to support local organizations.",
+    "email": "whlouie@sfu.ca",
+    "website": "https://www.facebook.com/SFUPaintball/",
+    "university": 1,
+    "tags": [
+      "space",
+      "friendship",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Dodo Club",
+    "imgURL": "https://go.sfss.ca/clubs/864/logo",
+    "description": "Inspired by the elusive and extinct dodo, we believe that life is too short not to be enjoyed. As a club, we strive to provide a student support system promoting positivity and mental health. Our fun social activities include online games like Among Us and League, Discord discussions, and movie streaming with snacks.",
+    "email": "sfudodoclub@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "science",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Music Discussion Club",
+    "imgURL": "https://go.sfss.ca/clubs/861/logo",
+    "description": "We aim to to provide a welcoming space for discussion of music. Discussion will first and foremost be fun & informative. Everyone stands to learn something new from others with different tastes and lived experiences. This is not a club where you have to know the ins and outs of music theory, but you are welcome to share any knowledge you do have!",
+    "email": "SFUMusicDiscussionClub@gmail.com",
+    "website": "https://www.facebook.com/groups/sfumusicdiscussionclub",
+    "university": 1,
+    "tags": [
+      "tech",
+      "sports",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "PennyDrops at SFU",
+    "imgURL": "https://go.sfss.ca/clubs/869/logo",
+    "description": "PennyDrops is a student-run non-profit organization that champions financial literacy among Canadian youth. The PennyDrops at SFU Chapter aims to engage the SFU community in being a part of the financial literacy movement in Canada.",
+    "email": "sfu@pennydrops.org",
+    "website": "pennydrops.org",
+    "university": 1,
+    "tags": [
+      "tech",
+      "sports",
+      "space"
+    ]
+  },
+  {
+    "clubName": "SFU OS Development",
+    "imgURL": "https://go.sfss.ca/clubs/867/logo",
+    "description": "SFU OS Development (Open Source) club is built for students willing to support the Open Source Community, and interested in real-world software engineering, as well as learning modern tools for software development outside the classroom.\r\nJoin our discord here: https://discord.gg/XDgjR7TGue",
+    "email": "osdev@sfu.ca",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "tech",
+      "innovation",
+      "space"
+    ]
+  },
+  {
+    "clubName": "350 - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/390/logo",
+    "description": "To raise awareness among students, faculty, and alumni about SFU's role in mitigating climate change.",
+    "email": "info@sfu350.com",
+    "website": "https://www.sfu350.com/",
+    "university": 1,
+    "tags": [
+      "arts",
+      "space",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Canadianized Asian Club (CAC)",
+    "imgURL": "https://go.sfss.ca/clubs/44/logo",
+    "description": "Our goal as a student-led non-profit organization is to enhance student\u2019s university experience, placing our membership body first. We strive to build an inclusive community that engages students through a variety of activities and events. We encourage students to join our executive committee to further their experience.",
+    "email": "talktocac@gmail.com",
+    "website": "https://caconline.ca",
+    "university": 1,
+    "tags": [
+      "dance",
+      "innovation",
+      "science"
+    ]
+  },
+  {
+    "clubName": "Debate Society",
+    "imgURL": "https://go.sfss.ca/clubs/193/logo",
+    "description": "The official debating team for SFU and a member of the Canadian University Society for Intercollegiate Debate (CUSID). We are a group of passionate individuals dedicated to fostering an inclusive atmosphere, where everyone feels safe expressing their views. We hope to teach SFU Students how to debate, critically think and publicly speak well.",
+    "email": "debate.sfu@gmail.com",
+    "website": "http://www.sfudebatesociety.com",
+    "university": 1,
+    "tags": [
+      "dance",
+      "arts",
+      "innovation"
+    ]
+  },
+  {
+    "clubName": "Concert Orchestra - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/65/logo",
+    "description": "We are an ensemble of musicians that is always expanding. We love playing because it's fun, no stress! If you play any orchestral or concert instrument feel free to contact us. We are here to promote the musical community at Burnaby campus.",
+    "email": "sfuco.team@gmail.com",
+    "website": "https://www.facebook.com/sfuorchestra",
+    "university": 1,
+    "tags": [
+      "social",
+      "sports",
+      "wellbeing"
+    ]
+  },
+  {
+    "clubName": "Indonesian Association - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/25/logo",
+    "description": "The Indonesian Association (IA) is a non-profit student-led organisation that welcomes and unites Indonesian students at Fraser International College and Simon Fraser University. We strive to promote a fun and rewarding university experience for all our members through various social events.",
+    "email": "sfu.indonesia@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "dance",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Backpacking Club",
+    "imgURL": "https://go.sfss.ca/clubs/802/logo",
+    "description": "To bring together a community of experienced hikers to tackle difficult and ambitious hikes, including those lasting for 2 or more days. Our focus is on providing the additional support, supplies, and planning required for these challenging but rewarding adventures.",
+    "email": "bpack@sfu.ca",
+    "website": "facebook.com/sfubackpacking",
+    "university": 1,
+    "tags": [
+      "food",
+      "health",
+      "space"
+    ]
+  },
+  {
+    "clubName": "Rehabilitative Therapy Club",
+    "imgURL": "https://go.sfss.ca/clubs/575/logo",
+    "description": "We aim to help and support students who are looking to pursue careers in rehabilitative therapies (occupational therapy, physiotherapy, and respiratory therapy) by creating a support network for students wanting to pursue these professions, and in improving student awareness of these jobs.",
+    "email": "sfurtc@sfu.ca",
+    "website": "www.facebook.com/SFURehabClub/",
+    "university": 1,
+    "tags": [
+      "wellbeing",
+      "science",
+      "club"
+    ]
+  },
+  {
+    "clubName": "SFU Esports Association",
+    "imgURL": "https://go.sfss.ca/clubs/709/logo",
+    "description": "To serve as a unifying brand for various student led gaming communities across the region",
+    "email": "info@sfuesports.com",
+    "website": "sfuesports.com",
+    "university": 1,
+    "tags": [
+      "dance",
+      "tech",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Vietnamese Canadian League (VCL)",
+    "imgURL": "https://go.sfss.ca/clubs/841/logo",
+    "description": "VCL is founded by Vietnamese-Canadian university students to empower fellow peers to promote unity and bridge the gap between Vietnamese and Vietnamese-Canadian traditions through leadership and community. We are dedicated to educating the whole person and empowering student leaders for the future in a just and humane world.",
+    "email": "vcl.sfu@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "food",
+      "space",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Japanese Network - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/34/logo",
+    "description": "We are a socializing club that encourages students to learn about Japanese culture through the events we create.",
+    "email": "sfujn@sfu.ca",
+    "website": "https://sfujn.weebly.com/",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Team Phantom: SFU Formula SAE Electric",
+    "imgURL": "https://go.sfss.ca/clubs/675/logo",
+    "description": "The goal of this club is to compete in the Formula SAE Electric Competition. The club will do this by designing and creating a fully electric vehicle using engineering principles.",
+    "email": "phantom@sfu.ca",
+    "website": "https://www.teamphantom.ca",
+    "university": 1,
+    "tags": [
+      "social",
+      "tech",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Catholic Christian Outreach Club",
+    "imgURL": "https://go.sfss.ca/clubs/74/logo",
+    "description": "Focused on evangelization, we challenge young people to live in the fullness of the Catholic faith placing a strong emphasis on building leaders for the renewal of the world.",
+    "email": "sfu@cco.ca",
+    "website": "http://sfucatholic.ca/",
+    "university": 1,
+    "tags": [
+      "tech",
+      "sports",
+      "club"
+    ]
+  },
+  {
+    "clubName": "DECA SFU",
+    "imgURL": "https://go.sfss.ca/clubs/858/logo",
+    "description": "DECA SFU\u2019s mandate is to create a business club environment in which students can participate in business themed case competitions at various locations throughout Canada. DECA SFU would be directly affiliated with DECA U Canada, a world-renowned case competition organization.",
+    "email": "decasfu@gmail.ca",
+    "website": "www.decasfu.ca",
+    "university": 1,
+    "tags": [
+      "tech",
+      "health",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Students For Liberty - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/537/logo",
+    "description": "A non-partisan student organization that promotes discussion of current events and political philosophy with an emphasis on personal, academic, and economic freedom. Students for Liberty provides opportunities to explore these ideas on and off-campus at events, conferences and seminars across North America.",
+    "email": "liberty@sfu.ca",
+    "website": "www.facebook.com/LibertySFU",
+    "university": 1,
+    "tags": [
+      "dance",
+      "science",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "African Students' Association",
+    "imgURL": "https://go.sfss.ca/clubs/298/logo",
+    "description": "Celebrating African diversity and unity. ASA is a student group engaging students of African descent and all those interested in positive discourse on Africa. Our mission is to focus solely on Africa, its issues and progress.",
+    "email": "africanstudentsassociationsfu@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "sports",
+      "wellbeing",
+      "space"
+    ]
+  },
+  {
+    "clubName": "SFU Pokemon Go Official Group",
+    "imgURL": "https://go.sfss.ca/clubs/817/logo",
+    "description": "Official campus trade/pvp/raid group! Doesn't matter what team you are on, come meet other players in the SFU community!",
+    "email": "pogosfu@gmail.com",
+    "website": "discord.gg/PZrecYs",
+    "university": 1,
+    "tags": [
+      "dance",
+      "tech",
+      "arts"
+    ]
+  },
+  {
+    "clubName": "Anime Club - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/356/logo",
+    "description": "To bring together like-minded students who wish to share their appreciation for anime and manga, and related interests/hobbies.",
+    "email": "sfuanime@sfu.ca",
+    "website": "https://u.sfuani.me/discord",
+    "university": 1,
+    "tags": [
+      "social",
+      "sports",
+      "tech"
+    ]
+  },
+  {
+    "clubName": "Better Life",
+    "imgURL": "https://go.sfss.ca/clubs/827/logo",
+    "description": "\u201cBetter Life\u201d at SFU aims for raising awareness for critical issues such as food and clothing waste in the SFU community, and broader Vancouver area. Better Life hopes to educate, motivate and initiate collective reductions in food waste, in addition to increasing food, clothing, and money donations to those in need.",
+    "email": "sfss_bttrlife@sfu.ca",
+    "website": "cutt.ly/betterlifesfu",
+    "university": 1,
+    "tags": [
+      "food",
+      "dance",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Pursuit of Happiness",
+    "imgURL": "https://go.sfss.ca/clubs/665/logo",
+    "description": "Pursuit of Happiness aims to promote the importance of mental and physical health, and nurture a safe and supportive network for students. We address the challenges of overall wellness experienced by the members of our community through engaging events.",
+    "email": "sfupoh@sfu.ca",
+    "website": "http://www.sfupoh.ca",
+    "university": 1,
+    "tags": [
+      "tech",
+      "sports",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "University Christian Ministries",
+    "imgURL": "https://go.sfss.ca/clubs/92/logo",
+    "description": "UCM SFU is a Christian community of students at Simon Fraser University. We exist to know and love God, love one another, care for all of our campuses, and tell others about Jesus.",
+    "email": "ucmsfu@sfu.ca",
+    "website": "http://ucmsfu.ca",
+    "university": 1,
+    "tags": [
+      "sports",
+      "innovation",
+      "space"
+    ]
+  },
+  {
+    "clubName": "Love Your Neighbour Club",
+    "imgURL": "https://go.sfss.ca/clubs/32/logo",
+    "description": "Love Your Neighbour club is a volunteer club with an international network of branches. We are dedicated to serving both the communities we live in as well as globally.",
+    "email": "sfu@lynvolunteer.org",
+    "website": "https://www.lynvolunteer.org",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "arts",
+      "science"
+    ]
+  },
+  {
+    "clubName": "Latin Dance Passion - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/125/logo",
+    "description": "The goal of Latin Dance Passion is to provide salsa and bachata dance lessons for students in a friendly environment, and at an affordable rate. We also make frequent outings to Latin dance events around Metro Vancouver to engage with the local Latin dance community.",
+    "email": "sfuldp@gmail.com",
+    "website": "www.sfuldp.ca",
+    "university": 1,
+    "tags": [
+      "social",
+      "food",
+      "science"
+    ]
+  },
+  {
+    "clubName": "International Justice Mission SFU",
+    "imgURL": "https://go.sfss.ca/clubs/531/logo",
+    "description": "IJM SFU is a group of students who desire to work together as advocates for the oppressed. Our vision is linked to International Justice Mission - a global organization that partners with local authorities to rescue victims of violence, bring criminals to justice, restore survivors, and strengthen justice systems.",
+    "email": "ijmsfu@gmail.com",
+    "website": "www.facebook.com/ijmsfu",
+    "university": 1,
+    "tags": [
+      "sports",
+      "wellbeing",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Helping Others Play Equally ( H.O.P.E.)",
+    "imgURL": "https://go.sfss.ca/clubs/803/logo",
+    "description": "We want to remove the stigma around special needs kids and want to raise awareness of the various conditions that these kids are diagnosed with. We strive to create an environment, where someone's condition does not limit how they should behave and interact with others.",
+    "email": "helpingothersp@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "wellbeing",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Kin Games SFU",
+    "imgURL": "https://go.sfss.ca/clubs/378/logo",
+    "description": "A passionate group of BPK undergraduate students who wish to attend the Kinesiology Games, the largest student-run Kinesiology conference in Canada. This event is held annually in March at a different host university providing students the opportunity to travel to various cities and campuses around Canada. Creating a stronger student community.",
+    "email": "kin_games_sfu@sfu.ca",
+    "website": "http:// www.facebook.com/kingamesSFU/",
+    "university": 1,
+    "tags": [
+      "arts",
+      "science",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Chess Club - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/513/logo",
+    "description": "For everyone who enjoys playing chess or wants to learn it! Join our discord https://discord.gg/TE2F2JVx2h",
+    "email": "dspooner@sfu.ca",
+    "website": "www.facebook.com/groups/sfuchess/",
+    "university": 1,
+    "tags": [
+      "wellbeing",
+      "cultural",
+      "arts"
+    ]
+  },
+  {
+    "clubName": "SFU CanAm",
+    "imgURL": "https://go.sfss.ca/clubs/884/logo",
+    "description": "We aim to promote physical and mental health as a sustainable & long-lasting value in our university community. We aspire to create a positive impact at SFU by providing a supportive network for our members to work and develop their strengths and weaknesses. This will allow us to provide students with tangible ways to manage their wellbeing.",
+    "email": "canam.sfu@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "dance",
+      "sports",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Student Marketing Association",
+    "imgURL": "https://go.sfss.ca/site_images/sfss_logo.png",
+    "description": "The Student Marketing Association (SMA) is SFU\u2019s creative and innovative marketing-based student club. Students from all faculties join together in this organization to gain skills in marketing, event coordination, and leadership, planning numerous social and professional events throughout the year.",
+    "email": "smapres@sfu.ca",
+    "website": "http://www.sfusma.com",
+    "university": 1,
+    "tags": [
+      "dance",
+      "wellbeing",
+      "health"
+    ]
+  },
+  {
+    "clubName": "SFU Real Estate Club",
+    "imgURL": "https://go.sfss.ca/clubs/846/logo",
+    "description": "The SFU Real Estate Club is a student led organization that allows students to be exposed to the real estate world through events and projects. Our vision is to create a community amongst the students interested in real estate and help them grow their network within the industry.",
+    "email": "sfure@sfu.ca",
+    "website": "https://sfurealestate.ca/",
+    "university": 1,
+    "tags": [
+      "dance",
+      "wellbeing",
+      "science"
+    ]
+  },
+  {
+    "clubName": "Pre-Med Society - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/22/logo",
+    "description": "The SFU Pre-Med Society is a group of students interested in entering the field of medicine. Info on admissions, med school options, and the MCAT plus interview prep, volunteering, hearing from current med students, and networking with other pre-meds. Join us! SFU clubs/students/external organizations, please contact: premedsfu@gmail.com",
+    "email": "premedsfu@gmail.com",
+    "website": "www.facebook.com/premedsociety",
+    "university": 1,
+    "tags": [
+      "sports",
+      "innovation",
+      "space"
+    ]
+  },
+  {
+    "clubName": "ALAS (Association of Latin American Students)",
+    "imgURL": "https://go.sfss.ca/clubs/169/logo",
+    "description": "Provide a space of entertainment and learning for Latin American students and those who love the Latino culture. We want to promote a space that cherish our multicultural community, while fostering an environment of respect and growth.",
+    "email": "alas@sfu.ca",
+    "website": "www.facebook.com/sfualas/?fref=ts",
+    "university": 1,
+    "tags": [
+      "social",
+      "health",
+      "space"
+    ]
+  },
+  {
+    "clubName": "Jazz Band - Simon Fraser",
+    "imgURL": "https://go.sfss.ca/clubs/212/logo",
+    "description": "The SFU Jazz Band aims to provide an opportunity for jazz musicians and enthusiasts to \trehearse and perform in a \u2018BIG BAND\u2019 setting within the SFU community.",
+    "email": "sfujazz@gmail.com",
+    "website": "https://www.facebook.com/groups/25662553539?refid=27",
+    "university": 1,
+    "tags": [
+      "food",
+      "space",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Aviation - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/68/logo",
+    "description": "SFU Aviation aims to support members by bridging members interested in aviation to actually pursuing a career or recreation within the industry. SFU Aviation seeks to provide a niche community where like-minded individuals can connect and thrive together.",
+    "email": "sfuaviation@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "social",
+      "wellbeing",
+      "space"
+    ]
+  },
+  {
+    "clubName": "Vietnamese Student Association",
+    "imgURL": "https://go.sfss.ca/clubs/89/logo",
+    "description": "An official group for all Vietnamese students and all those who are interested in Vietnamese culture at Simon Fraser University.",
+    "email": "vsa.sfu@gmail.com",
+    "website": "www.facebook.com/VSASFUOfficial",
+    "university": 1,
+    "tags": [
+      "food",
+      "dance",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Women in Clean Tech",
+    "imgURL": "https://go.sfss.ca/clubs/833/logo",
+    "description": "Women in Clean Tech (WiCT) is an all-inclusive club aiming to connect students in STEM, as well as facilitate clean tech initiatives and projects for our club members While the focus of this club is to connect and support the female student body interested in this field, all are welcome to join.",
+    "email": "wict.outreach@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "dance",
+      "tech",
+      "arts"
+    ]
+  },
+  {
+    "clubName": "Association for Critical and Interdisciplinary Thinking (ACIT)",
+    "imgURL": "https://go.sfss.ca/clubs/819/logo",
+    "description": "ACIT is a global, non-profit think-tank and research institute focusing on artificial intelligence, cognitive neuroscience, and social change. With this knowledge, we are dedicated to spreading free education in the world and researching the most pressing scientific and societal questions of our time.",
+    "email": "acit@sfu.ca",
+    "website": "https://acit-science.com/",
+    "university": 1,
+    "tags": [
+      "food",
+      "dance",
+      "tech"
+    ]
+  },
+  {
+    "clubName": "Student Energy at Simon Fraser University",
+    "imgURL": "https://go.sfss.ca/clubs/863/logo",
+    "description": "To educate and empower SFU\r\nstudents and their surrounding communities in aiding the transition to\r\nsustainable energy by engaging them through project and activity-based\r\ninitiatives that build skill sets relevant to the sustainable energy industry.",
+    "email": "sfu@studentenergy.org",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "food",
+      "arts",
+      "space"
+    ]
+  },
+  {
+    "clubName": "Blockchain and AI Club",
+    "imgURL": "https://go.sfss.ca/clubs/887/logo",
+    "description": "Technology is exponentially growing and the ability to keep up with innovation is becoming more difficult. We would like to provide a club where technology enthusiasts can get together and discuss blockchain AI. Topics include cryptocurrencies, machine learning, IoT (Internet of Things).",
+    "email": "sfublockchainai@gmail.com",
+    "website": "https://www.sfublockchainai.com/",
+    "university": 1,
+    "tags": [
+      "food",
+      "cultural",
+      "sports"
+    ]
+  },
+  {
+    "clubName": "Ban the Bottle SFU",
+    "imgURL": "https://go.sfss.ca/clubs/835/logo",
+    "description": "The Ban the Bottle group is a collective of students focused on environmental action, specifically related to water resources and single-use plastics.",
+    "email": "banbottlesfu@gmail.com",
+    "website": "https://www.facebook.com/banthebottlesfu/",
+    "university": 1,
+    "tags": [
+      "dance",
+      "health",
+      "club"
+    ]
+  },
+  {
+    "clubName": "FOCUS Club",
+    "imgURL": "https://go.sfss.ca/clubs/91/logo",
+    "description": "To provide international students a safe and open place to make friends, find help with living and studying in Canada, understand the Bible, and impact the world.",
+    "email": "sfufocus@gmail.com",
+    "website": "https://www.facebook.com/sfufocus",
+    "university": 1,
+    "tags": [
+      "wellbeing",
+      "arts",
+      "science"
+    ]
+  },
+  {
+    "clubName": "Burnaby Mountain Toastmasters",
+    "imgURL": "https://go.sfss.ca/clubs/60/logo",
+    "description": "This club aims at improving members' public speaking skills and expanding their social network.",
+    "email": "sfuburnabymountain.tm@gmail.com",
+    "website": "http://www.facebook.com/burnabymountaintoastmasters",
+    "university": 1,
+    "tags": [
+      "food",
+      "cultural",
+      "tech"
+    ]
+  },
+  {
+    "clubName": "SFU Knitting Club",
+    "imgURL": "https://go.sfss.ca/clubs/807/logo",
+    "description": "The purpose of SFU Knitting Club is to facilitate healthy stress-reduction techniques to improve student well-being. This club will teach students valuable skills so they can create something they are proud of.\r\n\r\nStay connected by following SFU Knitting Club on Instagram and Facebook!",
+    "email": "chouyic@sfu.ca",
+    "website": "https://www.instagram.com/sfuknittingclub/",
+    "university": 1,
+    "tags": [
+      "science",
+      "space",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "SFU Optimist Club",
+    "imgURL": "https://go.sfss.ca/clubs/535/logo",
+    "description": "Bringing out the best in kids, our members, and our community",
+    "email": "philanthropy.datbeta@gmail.com",
+    "website": "optimist.org/",
+    "university": 1,
+    "tags": [
+      "dance",
+      "sports",
+      "space"
+    ]
+  },
+  {
+    "clubName": "Central Asian Student Association (CASA)  at SFU",
+    "imgURL": "https://go.sfss.ca/clubs/888/logo",
+    "description": "Unite people of Central Asian heritage and cherish the diversity of Turkic nations by promoting cross-cultural awareness and responding to the needs of Central Asian students through a cultural prism. We want to strengthen the network and representation of Central Asian students across all fields through fun educational and cultural activities.",
+    "email": "CASA.sfu2022@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "tech",
+      "arts",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Science Undergraduate Research Journal (SURJ)",
+    "imgURL": "https://go.sfss.ca/clubs/809/logo",
+    "description": "SFU SURJ looks to promote undergraduate research by providing young scientists exposure and recognition for their work while undergoing a peer review process. Ultimately, we hope to foster a community of undergraduates who value research while engaging all students in science communication and education.",
+    "email": "sfusurj@gmail.com",
+    "website": "https://www.sfusurj.com/",
+    "university": 1,
+    "tags": [
+      "food",
+      "tech",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Th\u00e9 SFU Tea",
+    "imgURL": "https://go.sfss.ca/clubs/168/logo",
+    "description": "We aim to encourage and maintain the appreciation of tea in all forms.",
+    "email": "sfutea@gmail.com",
+    "website": "https://www.facebook.com/groups/thesfutea/",
+    "university": 1,
+    "tags": [
+      "food",
+      "tech",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "SFU Pre-Dental Society",
+    "imgURL": "https://go.sfss.ca/clubs/270/logo",
+    "description": "Our club focuses on informing students interested in pursuing a future in dentistry on the application process; DAT, the pre-requisites, current entrance statistics, and various other qualities looked for in potential candidates, to inform as many students of as many possibilities open to them in the future.",
+    "email": "predent@sfu.ca",
+    "website": "www.facebook.com/SFUPreDental/",
+    "university": 1,
+    "tags": [
+      "sports",
+      "space",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Exercise is Medicine SFU",
+    "imgURL": "https://go.sfss.ca/clubs/610/logo",
+    "description": "To foster collaborative inter-professional relationships and leadership skills on campus between exercise,\r\nhealth and other disciplines that support the EIMC vision and goals.",
+    "email": "eimc_sfu@hotmail.com",
+    "website": "https://www.facebook.com/groups/eimsfu/",
+    "university": 1,
+    "tags": [
+      "science",
+      "space",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Tamil Student Association  (TSA)",
+    "imgURL": "https://go.sfss.ca/clubs/842/logo",
+    "description": "To be a safe space where students affiliated with the Tamil language, culture and heritage, can come together to provide opportunities to bring both Tamils and non-Tamils together.",
+    "website": "https://www.instagram.com/sfutsa/",
+    "email": "",
+    "university": 1,
+    "tags": [
+      "dance",
+      "arts",
+      "innovation"
+    ]
+  },
+  {
+    "clubName": "Altered Reality Club",
+    "imgURL": "https://go.sfss.ca/clubs/56/logo",
+    "description": "SFU's premiere gaming and nerd culture club. We serve as SFU's source for gaming and tabletop activities. We are dedicated to providing an environment where SFU students interested in video games, board games and tabletop RPG's (Dungeons&Dragons, Dark Heresy, Call of Cthulu etc.) can meet and discuss such topics as well as gain new friends.",
+    "email": "arclub@sfu.ca",
+    "website": "facebook.com/groups/39506421514/",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "science",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Ascend Leadership",
+    "imgURL": "https://go.sfss.ca/clubs/743/logo",
+    "description": "As the 2nd University Chapter of Ascend in Western Canada, Ascend SFU\u2019s primary vision is to enhance the presence, influence, and visibility of current and future Pan-Asian leadership in our community through professional networking, mentorship, and internship opportunities.",
+    "email": "ascend@sfu.ca",
+    "website": "https://linktr.ee/sfu.ascend",
+    "university": 1,
+    "tags": [
+      "innovation",
+      "science",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "InterVarsity Undergraduate at SFU",
+    "imgURL": "https://go.sfss.ca/clubs/282/logo",
+    "description": "Through Christ's love, we are ordinary peoples doing extraordinary things on the SFU campus. We are making SFU home by reconciling God, peoples and land in relationship with all our heart, mind, soul and strength in Christ.",
+    "email": "intervarsitysfu@gmail.com",
+    "website": "https://fb.me/intervarsitysfu",
+    "university": 1,
+    "tags": [
+      "food",
+      "wellbeing",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Pakistan Students Association",
+    "imgURL": "https://go.sfss.ca/clubs/263/logo",
+    "description": "To promote Pakistani culture, cuisine and way of life; and to promote multi-culturalism at SFU.",
+    "email": "thepsaofsfu@gmail.com",
+    "website": "www.facebook.com/groups/psasfu",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "health",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Bhangra - SFU - Surrey",
+    "imgURL": "https://go.sfss.ca/clubs/544/logo",
+    "description": "To spread and promote health and well being as well as provide students with an avenue to connect with their artistic side as well as getting a great cardiovascular workout through the wonderful dance of Bhangra. Great for people of all cultures, backgrounds and dance levels.",
+    "email": "bhangra@sfu.ca",
+    "website": "www.facebook.com/SFU-Bhangra-Club-713152555405069/?fref=ts",
+    "university": 1,
+    "tags": [
+      "wellbeing",
+      "health",
+      "club"
+    ]
+  },
+  {
+    "clubName": "SFU Astronautic Robotics",
+    "imgURL": "https://go.sfss.ca/clubs/825/logo",
+    "description": "Astro Robotics strives to design autonomous robotic systems for use in space and other extreme environments.",
+    "email": "Astro@sfu.ca",
+    "website": "https://sfuastrorobotics.wixsite.com/astro",
+    "university": 1,
+    "tags": [
+      "social",
+      "arts",
+      "space"
+    ]
+  },
+  {
+    "clubName": "Pre-Optometry Society - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/153/logo",
+    "description": "The SFU Pre-Optometry Society serves as a network for students who are interested in the field of optometry. Our purpose is to provide members with OAT preparation, volunteer/work opportunities, fundraisers, & hearing from optometrists & various schools.",
+    "email": "preopt@sfu.ca",
+    "website": "m.facebook.com/sfuoptometry/",
+    "university": 1,
+    "tags": [
+      "sports",
+      "friendship",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Hip Hop Club - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/286/logo",
+    "description": "SFU HipHop club is a club devoted to the HipHop Culture. Our main goal is to share and educate about the HipHop dance culture. We introduce styles such as popping, locking, waving, house, breakdancing, wacking, and much more. It is a place where you meet new people, share the same interest, learn new skills, and in general having fun.",
+    "email": "sfuhh@sfu.ca",
+    "website": "https://www.facebook.com/sfuhiphop/",
+    "university": 1,
+    "tags": [
+      "sports",
+      "friendship",
+      "club"
+    ]
+  },
+  {
+    "clubName": "H.O.P.E: The Humanitarian Organization for Providing Empowerment at SFU or SFU HOPE Club",
+    "imgURL": "https://go.sfss.ca/clubs/872/logo",
+    "description": "SFU HOPE believes in the concept of mutual aid, where events and activities benefit both parties, leading to a common goal. Through our mentorship and community based projects, HOPE empowers students that take part by enabling them to learn more about their communities and gain skills and experiences.",
+    "email": "sfuhopeclub@gmail.com",
+    "website": "https://thehopeinitiative.ca/",
+    "university": 1,
+    "tags": [
+      "sports",
+      "arts",
+      "innovation"
+    ]
+  },
+  {
+    "clubName": "Socialist Alternative Youth",
+    "imgURL": "https://go.sfss.ca/site_images/sfss_logo.png",
+    "description": "Socialist Alternative Youth realizes that capitalism is incapable of providing a society where the working class and its allies can have a good quality of life on a healthy planet. Therefore, we work both for reforms now and for a mass democratic socialist transformation of society.",
+    "email": "sayouth.ca@gmail.com",
+    "website": "https://socialistalternative.ca/",
+    "university": 1,
+    "tags": [
+      "social",
+      "tech",
+      "wellbeing"
+    ]
+  },
+  {
+    "clubName": "Variety for Tomorrow - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/730/logo",
+    "description": "We host events throughout the year to fundraise on behalf of Variety - the Children\u2019s Charity. All of our proceeds support children with special needs in British Columbia. We also offer the opportunity to volunteer at some of Variety\u2019s events, such as the Show of Hearts Telethon, Boat for Hope and their Christmas parties.",
+    "email": "variety@sfu.ca",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "innovation",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Radical Individual's for Solidarity and Equity (RISE)",
+    "imgURL": "https://go.sfss.ca/clubs/48/logo",
+    "description": "The mandate for Radical Individual's for Solidarity and Equity (RISE) is to hold weekly discussion groups on SFU Burnaby campus covering a variety of political topics, and bi-weekly reading groups of leftist text. We hope that through this activity RISE can empower our membership to organize within their communities against capitalism.",
+    "email": "leftalternatives@gmail.com",
+    "website": "www.facebook.com/RISE.SFU",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "innovation",
+      "space"
+    ]
+  },
+  {
+    "clubName": "Game Developers Club",
+    "imgURL": "https://go.sfss.ca/clubs/134/logo",
+    "description": "We're a safe haven for game developers at SFU. Our goal is to support and teach all aspects of game development, which we accomplish by hosting periodic meetings and tutorials for sharing skills. We also provide resources to those currently working on projects.",
+    "email": "gabriel_stang@sfu.ca",
+    "website": "https://discord.gg/7JJDDyX",
+    "university": 1,
+    "tags": [
+      "food",
+      "sports",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Board Game Club",
+    "imgURL": "https://go.sfss.ca/clubs/75/logo",
+    "description": "Play board games such as Coup, Deception, and Red Dragon Inn, among many other favorites. Also, for friendship.",
+    "email": "sfuboardgameclub@gmail.com",
+    "website": "sfuboardgame.com",
+    "university": 1,
+    "tags": [
+      "health",
+      "space",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Panwiberry Dance Crew",
+    "imgURL": "https://go.sfss.ca/clubs/688/logo",
+    "description": "We are an Asian pop dance crew mainly focuses on kpop girl and boy group dance and Chinese pop dance.We welcome everyone who love Asian music and dances to join our rehearsals, video recordings and performances!\r\n\u6211\u4eec\u6b22\u8fce\u6240\u6709\u7231\u597d\u97e9\u56fd\u8857\u821e\u548c\u4e2d\u56fd\u98ce\u8857\u821e\u7684\u540c\u5b66\u4eec\u52a0\u5165\u6211\u4eec\uff01\u5feb\u6765\u8ddf\u6211\u4eec\u4e00\u8d77\u5206\u4eab\u821e\u8e48\u7684\u5feb\u4e50\u5427\uff01",
+    "email": "panwiberry@gmail.com",
+    "website": "https://www.youtube.com/c/PanwiberrySFU/featured",
+    "university": 1,
+    "tags": [
+      "dance",
+      "tech",
+      "wellbeing"
+    ]
+  },
+  {
+    "clubName": "Indian Student Federation (ISF)",
+    "imgURL": "https://go.sfss.ca/clubs/278/logo",
+    "description": "Our club purpose is to speak out and unite all prospective, current and Alumni Indian students in SFU. Our vision is to organize cultural events and help Indian students build a network with one another.",
+    "email": "isf.sfu@gmail.com",
+    "website": "https://www.facebook.com/IndianStudentFederation",
+    "university": 1,
+    "tags": [
+      "science",
+      "innovation",
+      "space"
+    ]
+  },
+  {
+    "clubName": "Conspiracy Club",
+    "imgURL": "https://go.sfss.ca/site_images/sfss_logo.png",
+    "description": "Conspiracy Club looks to discuss various conspiracies and unsolved mysteries, through multiple points of view. This club hopes to create a strong sense of community while fostering captivating discussions.",
+    "email": "sfss_spiracy@sfu.ca",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "social",
+      "cultural",
+      "arts"
+    ]
+  },
+  {
+    "clubName": "Muslim Students Association",
+    "imgURL": "https://go.sfss.ca/clubs/45/logo",
+    "description": "To provide prayer facilities, religious information and services, and to foster social connections for all Muslim students on campus. \r\nAlso to provide awareness and education of Islam for the greater community |\r\nFacebook: facebook.com/sfumsa/ | \r\nTwitter: @SFU_MSA | IG: SFU_MSA",
+    "email": "contact-msa@sfu.ca",
+    "website": "sfumsa.ca/",
+    "university": 1,
+    "tags": [
+      "food",
+      "space",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Hanvoice SFU",
+    "imgURL": "https://go.sfss.ca/clubs/877/logo",
+    "description": "HanVoice is an outlet to affect real grassroots change. Therefore, The club will equip, and empower students to engage meaningfully with North Korean human rights issues.",
+    "email": "joohee@hanvoice.ca",
+    "website": "https://www.facebook.com/HanVoiceSFU",
+    "university": 1,
+    "tags": [
+      "social",
+      "tech",
+      "wellbeing"
+    ]
+  },
+  {
+    "clubName": "UNICEF - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/166/logo",
+    "description": "Our focus is to advocate, educate, and fundraise to join the global effort of reversing child-focused humanitarian issues in the developing world.",
+    "email": "sfunicef@sfu.ca",
+    "website": "https://www.unicefsfu.com/",
+    "university": 1,
+    "tags": [
+      "arts",
+      "innovation",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Her Campus SFU",
+    "imgURL": "https://go.sfss.ca/clubs/618/logo",
+    "description": "Her Campus is the #1 global community for college women, with 290+ chapters at universities all over North America. Her Campus SFU is an inclusive online magazine specifically for SFU women, covering topics from campus life and college survival to fashion, beauty, health, career, and more.",
+    "email": "hcampus@sfu.ca",
+    "website": "www.hercampus.com/sfu",
+    "university": 1,
+    "tags": [
+      "social",
+      "cultural",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Ismaili Students Association",
+    "imgURL": "https://go.sfss.ca/clubs/117/logo",
+    "description": "A Religious Organization designed to create fun and exciting Internal and External events that engage the Post-Secondary Shia Ismaili Muslim community, and the wider SFU student body.",
+    "email": "sfuisa@gmail.com",
+    "website": "www.facebook.com/sfu.isa.7",
+    "university": 1,
+    "tags": [
+      "innovation",
+      "space",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Dogwood SFU",
+    "imgURL": "https://go.sfss.ca/clubs/849/logo",
+    "description": "A non profit, non partisan citizen action network in SFU that brings together students to reclaim power over our environment and democracy.",
+    "email": "dogwoodsfu@gmail.com",
+    "website": "www.instagram.com/dogwoodsfu/",
+    "university": 1,
+    "tags": [
+      "food",
+      "cultural",
+      "science"
+    ]
+  },
+  {
+    "clubName": "Model United Nations - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/93/logo",
+    "description": "Model United Nation will explore different forums within the United Nations and will aim to teach members how MUN works while enhancing their understanding of politics and adding new skills such as quick problem solving and public speaking.",
+    "email": "model_un@sfu.ca",
+    "website": "www.facebook.com/sfumodelun/?view_public_for=145877485772231",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "science",
+      "dance"
+    ]
+  },
+  {
+    "clubName": "Hillel Jewish Students Association",
+    "imgURL": "https://go.sfss.ca/clubs/595/logo",
+    "description": "Organize events at SFU that are based on core Jewish Values, such a tikkun olam (repairing the world) and tzedakah (acts of charity). We celebrate the Jewish holidays, develop educational programs, work on social action projects, and encourage people to connect with one another at discussions, parties and retreats.",
+    "email": "zoe@hillelbc.com",
+    "website": "https://www.hillelbc.com/",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "wellbeing",
+      "dance"
+    ]
+  },
+  {
+    "clubName": "SFU Mechanical Keyboards Club",
+    "imgURL": "https://go.sfss.ca/site_images/sfss_logo.png",
+    "description": "To introduce students to the joy of mechanical keyboards and hosting meet ups to share and show off custom boards.",
+    "email": "",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "food",
+      "space",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Human Resources Student Association",
+    "imgURL": "https://go.sfss.ca/clubs/59/logo",
+    "description": "The Human Resources Student Association (HRSA) aims to serve the needs of Simon Fraser University students (business and non-business) by providing opportunities for social interaction among the student body with scholarly and professional interests from multiple disciplines within the field of Human Resource Management.",
+    "email": "hrsa@sfu.ca",
+    "website": "https://www.sfuhrsa.com/",
+    "university": 1,
+    "tags": [
+      "dance",
+      "wellbeing",
+      "innovation"
+    ]
+  },
+  {
+    "clubName": "World University Services of Canada-SFU",
+    "imgURL": "https://go.sfss.ca/clubs/167/logo",
+    "description": "World University Service of Canada (WUSC) is a Canadian international development non-profit organization dedicated to improving education, employment and empowerment opportunities for youth, women and refugees. WUSC works through 95 universities across Canada through the WUSC Local Committees to support the Student Refugee Program (SRP). For more info, please visit: https://wusc.ca/\r\n\r\n\r\n\r\n\r\nThe SFU WUSC Local Committee (LC) is a student and volunteer-driven campus organization that runs the SFU Student Refugee Program. The SRP is the only one of its kind to combine resettlement with opportunities for higher education. At SFU, we sponsor 6 refugee students every year. Our LC raise funds and awareness for the program on their campus and in their community. They also play a critical role in offering day-to-day social and academic support to SRP students. For more info, please visit: https://www.sfu.ca/refugeeprograms/students.html",
+    "email": "wuscsfu@gmail.com",
+    "website": "wuscsfu.wordpress.com/",
+    "university": 1,
+    "tags": [
+      "food",
+      "dance",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Canadian Cancer Society - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/619/logo",
+    "description": "Through a small group of motivated and passionate students, we help raise awareness of different types of cancers through awareness themed months. We also organize and host one of SFU\u2019s biggest cancer related fundraisers, Relay for Life! Through these efforts, all proceeds are given directly to the Canadian Cancer Society.",
+    "email": "ccssfu@sfu.ca",
+    "website": "https://www.facebook.com/SFUCCS/",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "health",
+      "club"
+    ]
+  },
+  {
+    "clubName": "SFU Conservatives",
+    "imgURL": "https://go.sfss.ca/clubs/627/logo",
+    "description": "The SFU Conservatives hope to support the Conservative Party of Canada, to foster knowledge sharing between peoples interested in politics, to promote the discussion of ideas between conservative-minded individuals, to encourage active participation in local and federal politics, and to provide students the opportunity to get involved.",
+    "email": "sfuconservatives@gmail.com",
+    "website": "facebook.com/SFUCPC",
+    "university": 1,
+    "tags": [
+      "food",
+      "wellbeing",
+      "innovation"
+    ]
+  },
+  {
+    "clubName": "STEM Fellowship",
+    "imgURL": "https://go.sfss.ca/clubs/839/logo",
+    "description": "Non-profit organization at SFU that strives to engage future leaders and innovators in science, technology, engineering, and mathematics.",
+    "email": "stem@sfu.ca",
+    "website": "https://stemfellowship.org/",
+    "university": 1,
+    "tags": [
+      "social",
+      "cultural",
+      "space"
+    ]
+  },
+  {
+    "clubName": "VO1SS SFU",
+    "imgURL": "https://go.sfss.ca/clubs/845/logo",
+    "description": "We aim to provide a platform to a diverse group of people regardless of their background, career goals, and orientation. We hope to reach the public through the stories we share and encourage people to connect with the individuals in our articles.",
+    "email": "vo1sssfu@gmail.com",
+    "website": "en.vo1ss.com/",
+    "university": 1,
+    "tags": [
+      "dance",
+      "innovation",
+      "cultural"
+    ]
+  },
+  {
+    "clubName": "Simon Fraser Cinematography",
+    "imgURL": "https://go.sfss.ca/clubs/760/logo",
+    "description": "Simon Fraser Cinematography exists to provide exciting and unique opportunities for students who are interested in the art and techniques of making and reproducing motion pictures. SFC will strive to bring students together from learning and understanding cinematography languages through practices and professional hands-on guidance.",
+    "email": "hca15@sfu.ca",
+    "website": "sfcclub.weebly.com/",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "sports",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Management Information Systems Association",
+    "imgURL": "https://go.sfss.ca/clubs/102/logo",
+    "description": "MISA (Management Information Systems Association) promotes the Faculty of Business Administration concentration of Management Information Systems on campus to inform students of career paths in MIS.",
+    "email": "misa-exec@sfu.ca",
+    "website": "www.sfumisa.com",
+    "university": 1,
+    "tags": [
+      "social",
+      "arts",
+      "health"
+    ]
+  },
+  {
+    "clubName": "SFU Competitive Programming",
+    "imgURL": "https://go.sfss.ca/clubs/857/logo",
+    "description": "We exist for the purpose of providing an environment for practicing, learning, and enjoying competitive programming. We are trying to build up a team and be competitive in the Northwest region of North America.\r\n\r\nTo join our practices and compete with us, or to just hang out and discuss programming, join our Discord!",
+    "website": "https://discord.gg/2mFZD2F",
+    "email": "",
+    "university": 1,
+    "tags": [
+      "food",
+      "wellbeing",
+      "space"
+    ]
+  },
+  {
+    "clubName": "Club of Discourse SFU",
+    "imgURL": "https://go.sfss.ca/clubs/879/logo",
+    "description": "COD SFU aims to engage students in pursuit of 4 goals. We strive to introduce students to different perspectives. We aim to create a respectful space for discussions of various topics. We intend for our club to help ease the divide in our society. Finally, we look to fight university censorship and give students a space to relish their free speech.",
+    "email": "COD.SFU@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "wellbeing",
+      "innovation",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Korean Storm (K.STORM)",
+    "imgURL": "https://go.sfss.ca/clubs/54/logo",
+    "description": "K.STORM is a non-profit student group that aims to promote Korean culture and media to all students from all nations. We are a social friendly community that allows members to meet new people and enjoy their university life with us.\u200b\u200b",
+    "email": "sfu.kstorm@gmail.com",
+    "website": "https://beacons.ai/sfukstorm",
+    "university": 1,
+    "tags": [
+      "science",
+      "space",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Hong Kong Society (HKS)",
+    "imgURL": "https://go.sfss.ca/clubs/710/logo",
+    "description": "We essentially introduce Hong Kong traditions and culture, provide student-based services, encourage cultural exchange, and hold social events. Moreover, HKS aims at assisting students to adapt to the heart-warming environment in Vancouver, bonding them with close emotional attachments and building their self-confidence for future challenges.",
+    "email": "sfuhks@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "science",
+      "friendship",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Christian Leadership Initiative - SFU",
+    "imgURL": "https://go.sfss.ca/site_images/sfss_logo.png",
+    "description": "An open community of scholars and students exploring the Christian worldview through the nexus of scholarship and faith",
+    "email": "god-and-reason_admin@sfu.ca",
+    "website": "https://www.facebook.com/SFUCLI",
+    "university": 1,
+    "tags": [
+      "social",
+      "sports",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "NDP Club - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/137/logo",
+    "description": "The Purpose of the SFU NDP Club shall be to actively engage members of the SFU Community in the political process in such a way that is both inclusive and beneficial to the New Democratic Party of Canada, and the New Democratic Party of British Columbia.",
+    "website": "https://www.facebook.com/SFUNDP",
+    "email": "",
+    "university": 1,
+    "tags": [
+      "food",
+      "arts",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Sahaja Yoga Meditation",
+    "imgURL": "https://go.sfss.ca/clubs/780/logo",
+    "description": "Sahaja Yoga meditation is an effective tool for stress reduction.Authentic meditation enables one to focus on the present moment rather than dwell on the unchangeable past or the undetermined future. This is done by achieving a state of \u2018thoughtless awareness\u2019 where the stress producing activity of the mind is neutralized without loss of alertness.",
+    "email": "raghavap@sfu.ca",
+    "website": "https://wemeditate.co",
+    "university": 1,
+    "tags": [
+      "arts",
+      "space",
+      "club"
+    ]
+  },
+  {
+    "clubName": "SFU Aerospace",
+    "imgURL": "https://go.sfss.ca/clubs/812/logo",
+    "description": "SFU Aerospace aims to create a bridge between different disciplines and fill in the gaps between entrepreneurship, educational outreach, and technological developments in the field of Aerospace. We are a group of space enthusiasts who believe in creating multidisciplinary space where everyone can get involved regardless of their major at school.",
+    "email": "ddivsala@sfu.ca",
+    "website": "sfuaerospace.org",
+    "university": 1,
+    "tags": [
+      "sports",
+      "health",
+      "club"
+    ]
+  },
+  {
+    "clubName": "SFU First Responders",
+    "imgURL": "https://go.sfss.ca/clubs/763/logo",
+    "description": "To provide those with an interest in first aid, regardless of skill level or experience, with the opportunity to learn new skills, maintain current ones, and meet others with similar interests. To join or for more information please contact our executive team at SFU.FirstResponders@gmail.com",
+    "email": "sfu.firstresponders@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "dance",
+      "space",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Science Fiction and Fantasy Bookclub",
+    "imgURL": "https://go.sfss.ca/clubs/885/logo",
+    "description": "To encourage students to enjoy reading beyond their assigned texts.  SFF today is a diverse genre, and we hope to introduce more students to it and to foster understanding and enjoyment through discussion.",
+    "email": "sff_books@sfu.ca",
+    "website": "https://www.instagram.com/sfusffbooks/",
+    "university": 1,
+    "tags": [
+      "food",
+      "social",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Conversations Worth Starting",
+    "imgURL": "https://go.sfss.ca/site_images/sfss_logo.png",
+    "description": "To foster a community that supports idea-sharing and personal growth through volunteering opportunities.",
+    "email": "internal@tedxsfu.com",
+    "website": "http://tedxsfu.com",
+    "university": 1,
+    "tags": [
+      "social",
+      "space",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Finance Club - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/105/logo",
+    "description": "The SFU Finance Club is a group dedicated to help finance students attending SFU. Our goals are to help SFU Finance concentrators succeed while attending SFU and after graduating from SFU and help bring the SFU Finance community together.",
+    "email": "financeclub.sfu@gmail.com",
+    "website": "sfufinanceclub.com",
+    "university": 1,
+    "tags": [
+      "tech",
+      "wellbeing",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "JDC West - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/426/logo",
+    "description": "JDC West is the largest student-run business competition in Western Canada that showcases academics, athletics, debate, and a social competition.The competition provides students with the opportunity to compete in all facets of business, while developing networking, critical thinking and leadership skills.",
+    "email": "jdcwest@sfu.ca",
+    "website": "sfujdcwest.com/",
+    "university": 1,
+    "tags": [
+      "food",
+      "sports",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Pre-Law Society - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/491/logo",
+    "description": "The SFU Pre-Law Society is intended for all students who plan on pursuing a future career or education in law. The Pre-Law Society aims to connect students involved in the law school admission process through hosting meetings, events and information sessions.",
+    "email": "plss@sfu.ca",
+    "website": "www.sfuprelaw.ca",
+    "university": 1,
+    "tags": [
+      "sports",
+      "health",
+      "club"
+    ]
+  },
+  {
+    "clubName": "SFU Swifties Club",
+    "imgURL": "https://go.sfss.ca/clubs/880/logo",
+    "description": "We would like to explore the love that our members have for global pop sensation and icon Taylor Swift, as well as any pop singers, books, marvel and just media in general. Please join the discord server by dming us on instagram or by emailing sfuswifties@gmail.com. The email is less frequently checked,",
+    "email": "sfuswifties@gmail.com",
+    "website": "https://linktr.ee/sfuswifties",
+    "university": 1,
+    "tags": [
+      "wellbeing",
+      "friendship",
+      "club"
+    ]
+  },
+  {
+    "clubName": "CaseIT",
+    "imgURL": "https://go.sfss.ca/clubs/533/logo",
+    "description": "CaseIT is team of likeminded individuals who organize and host an annual international business case competition with a strong Management Information Systems focus. CaseIT has strived to bridge technology and business by providing a platform for exceptional students from around the world to showcase their skills in case analysis and IT strategy.",
+    "email": "caseit@sfu.ca",
+    "website": "https://www.caseit.org",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "innovation",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Sikh Students' Association - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/147/logo",
+    "description": "Establish a strong network for those who are exploring the Sikh way of life. We hope to achieve this by promoting Sikh values such as equality, peace and truthful living in order to create a strong and united Sikh community at Simon Fraser University.",
+    "email": "ssasfu13@gmail.com",
+    "website": "www.facebook.com/sfussa/",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "space",
+      "dance"
+    ]
+  },
+  {
+    "clubName": "International Club",
+    "imgURL": "https://go.sfss.ca/site_images/sfss_logo.png",
+    "description": "The International Club is for all students: international, UWC grads, immigrant, and Canadian. Our club is about bringing students together; building a better cross-cultural understanding; and learning more about international relations through our many activities and events. Also, the club provides an important social support network for students.",
+    "email": "intlclub@sfu.ca",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "social",
+      "cultural",
+      "science"
+    ]
+  },
+  {
+    "clubName": "University Bible Fellowship",
+    "imgURL": "https://go.sfss.ca/clubs/15/logo",
+    "description": "To help students study the Bible and live according to its teachings.",
+    "email": "ubf.sfu@gmail.com",
+    "website": "ubf.org",
+    "university": 1,
+    "tags": [
+      "dance",
+      "health",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Introverts Club - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/552/logo",
+    "description": "We aim to help introverts make friends at SFU. Our club organizes events for introverts to meet up, get to know each other, and socialize the introvert way.",
+    "email": "quiet@sfu.ca",
+    "website": "https://www.facebook.com/groups/sfuintroverts/",
+    "university": 1,
+    "tags": [
+      "space",
+      "arts",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Orangutan Awareness Club",
+    "imgURL": "https://go.sfss.ca/clubs/847/logo",
+    "description": "To raise awareness among the SFU community about the plight of orangutan and their rainforest habitat.",
+    "email": "orgutan@sfu.ca",
+    "website": "http://www.facebook.com/Orangutan-Awareness-Club-105845141056226/",
+    "university": 1,
+    "tags": [
+      "arts",
+      "health",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Women in STEM",
+    "imgURL": "https://go.sfss.ca/clubs/634/logo",
+    "description": "Women in STEM is a networking club open to those in all fields of science, technology, engineering, and mathematics. It is catered to women, but all are welcome as long as there is an interest in advancement of women in STEM. We hope to create a supportive environment for those in STEM to pursue careers in their respective fields.",
+    "email": "sfuwstem@sfu.ca",
+    "website": "www.facebook.com/sfuwstem",
+    "university": 1,
+    "tags": [
+      "dance",
+      "tech",
+      "wellbeing"
+    ]
+  },
+  {
+    "clubName": "SFU Peak Frequency",
+    "imgURL": "https://go.sfss.ca/clubs/120/logo",
+    "description": "To provide performance opportunities for student musicians and foster a musical environment where people can socialize and share a common interest.",
+    "email": "sfupeakfrequency@gmail.com",
+    "website": "www.facebook.com/sfupeakfrequency/",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "innovation",
+      "dance"
+    ]
+  },
+  {
+    "clubName": "Filipino Students Association",
+    "imgURL": "https://go.sfss.ca/clubs/141/logo",
+    "description": "To promote the Filipino value of \u201ckapwa\u201d (togetherness) through the organization\u2019s events and by epitomizing \u201cpakikipagkapwa\u201d (kindness)",
+    "email": "",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "social",
+      "sports",
+      "innovation"
+    ]
+  },
+  {
+    "clubName": "Poetry Club",
+    "imgURL": "https://go.sfss.ca/site_images/sfss_logo.png",
+    "description": "The poetry club will facilitate the collection, creation and dissemination of poetry by SFU students for a student audience. It will provide a space for people to share poetic works that are meaningful to them. Members will exchange published and original works, discuss them and provide feedback on request.",
+    "email": "poet@sfu.ca",
+    "website": "instagram.com/sfu_poetry",
+    "university": 1,
+    "tags": [
+      "dance",
+      "arts",
+      "cultural"
+    ]
+  },
+  {
+    "clubName": "SFU Surge",
+    "imgURL": "https://go.sfss.ca/clubs/831/logo",
+    "description": "We are a community for students in tech to learn from industry professionals at conferences and talks, to hone skills and experience at large-scale hackathons and competitions, to network at events and workshops to enable community innovation, and to gain project experience working on software used by SFU students.",
+    "email": "sfusurge@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "sports",
+      "wellbeing",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Axis Consulting",
+    "imgURL": "https://go.sfss.ca/clubs/836/logo",
+    "description": "Axis Consulting is a student-led pro-bono consultancy. We help businesses build their capabilities and empower non-for-profits to create a positive impact for our community. At Axis Consulting, we seamlessly integrate strategy, data, insights, and expertise to drive value for our clients.",
+    "email": "sfuaxisconsulting@gmail.com",
+    "website": "sfuaxisconsulting.com",
+    "university": 1,
+    "tags": [
+      "arts",
+      "dance",
+      "wellbeing"
+    ]
+  },
+  {
+    "clubName": "Balkan Students' Association",
+    "imgURL": "https://go.sfss.ca/clubs/862/logo",
+    "description": "Open to all nationalities and faiths, SFU Balkan Students' Association aims to preserve the diverse Balkan cultures and unite SFU students of the diaspora.",
+    "email": "sfss_balkan@sfu.ca",
+    "website": "https://beacons.ai/sfubalkanstudents",
+    "university": 1,
+    "tags": [
+      "food",
+      "wellbeing",
+      "science"
+    ]
+  },
+  {
+    "clubName": "SFU Dragon Boat",
+    "imgURL": "https://go.sfss.ca/clubs/676/logo",
+    "description": "To promote and build a welcoming, inclusive, and supportive community around the sport of dragon boat paddling at SFU. Additionally, SFU Dragon Boat facilitates the creation and support of the day to day operation of SFU dragon boat teams.",
+    "email": "sfushockwave@gmail.com",
+    "website": "https://www.facebook.com/sfushockwave/",
+    "university": 1,
+    "tags": [
+      "wellbeing",
+      "cultural",
+      "arts"
+    ]
+  },
+  {
+    "clubName": "The FentaNIL Project at SFU (TFP)",
+    "imgURL": "https://go.sfss.ca/clubs/870/logo",
+    "description": "The FentaNIL Project (TFP) is dedicated to reducing the impact of the opioid crisis by educating students about harm reduction strategies and how they can help members of the community struggling with addiction. We intend to teach the public how to recognize and respond to an overdose by recommending students obtain naloxone kits. IG: @fentanilsfu",
+    "email": "imranh@sfu.ca",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "wellbeing",
+      "club"
+    ]
+  },
+  {
+    "clubName": "ChangeSFU",
+    "imgURL": "https://go.sfss.ca/clubs/700/logo",
+    "description": "Our mission is to provide a collaborative space for all kinds of environmental, political, and social activism at SFU and in its community. We catalyze change through taking the issues our members are passionate about and brainstorming actionable campaigns to address those issues to the best of our ability.",
+    "email": "changesfu@gmail.com",
+    "website": "https://www.facebook.com/ChangeSFU/",
+    "university": 1,
+    "tags": [
+      "social",
+      "dance",
+      "health"
+    ]
+  },
+  {
+    "clubName": "SFU Style Statement",
+    "imgURL": "https://go.sfss.ca/clubs/866/logo",
+    "description": "An all-inclusive community for people who love fashion, style, and keeping up with the latest trends. We will be hosting socials throughout the year. The purpose is to have an enjoyable experience and share style interests with each other.",
+    "email": "sfustylestatement@gmail.com",
+    "website": "-",
+    "university": 1,
+    "tags": [
+      "sports",
+      "wellbeing",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Vocal Jazz- SFU",
+    "imgURL": "https://go.sfss.ca/clubs/192/logo",
+    "description": "To spread musical joy throughout the SFU campus.",
+    "email": "sfuvocaljazz@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "food",
+      "dance",
+      "health"
+    ]
+  },
+  {
+    "clubName": "SFU Cricket Club",
+    "imgURL": "https://go.sfss.ca/clubs/789/logo",
+    "description": "This club aims at bringing together all the cricket enthusiasts at SFU for informative, entertaining and enjoyable events, discussions, get-togethers and light play.",
+    "email": "sfucricket@gmail.com",
+    "website": "www.facebook.com/sfucricket/",
+    "university": 1,
+    "tags": [
+      "social",
+      "innovation",
+      "science"
+    ]
+  },
+  {
+    "clubName": "Phi Delta Epsilon",
+    "imgURL": "https://go.sfss.ca/clubs/24/logo",
+    "description": "As a co-ed fraternity, we aim to dispel the competitive stereotypes associated with pre-med students and foster lifelong friendships between women and men pursuing a career in medicine. Through our philanthropy, leadership opportunities, and academic excellence, we hope to instill in our members the skills necessary to excel in the medical field.",
+    "email": "phide@sfu.ca",
+    "website": "www.phidesfu.com",
+    "university": 1,
+    "tags": [
+      "food",
+      "cultural",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Chinese Students and Scholars Association",
+    "imgURL": "https://go.sfss.ca/clubs/126/logo",
+    "description": "Our association is a non-profit, non-political, independent organization composed of mainly Chinese students and scholars studying and working at SFU. CSSA is dedicated to create a community for international students and enrich students' non-academic life by hosting various events including dance performances and other activities.",
+    "email": "cssa@sfu.ca",
+    "website": "http://www.sfu.ca/~cssa/",
+    "university": 1,
+    "tags": [
+      "food",
+      "health",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Malaysia Singapore Students Club",
+    "imgURL": "https://go.sfss.ca/clubs/122/logo",
+    "description": "To provide a social club for Malaysian and Singapore students and those interested in the related cultures of these countries.",
+    "email": "msscsimonfraser@gmail.com",
+    "website": "https://www.instagram.com/msscsfu/?hl=en",
+    "university": 1,
+    "tags": [
+      "food",
+      "dance",
+      "club"
+    ]
+  },
+  {
+    "clubName": "VentureXPerience (VXP)",
+    "imgURL": "https://go.sfss.ca/clubs/875/logo",
+    "description": "VXP is a community space for designers and entrepreneurs to come together to solve design problems. All private and social events will be centered around Product, User experience, and User Interface design. The purpose of this club is to Network, Learn, Compete and raise awareness of solving problems with Design.",
+    "email": "venturexperience.design@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "social",
+      "science",
+      "space"
+    ]
+  },
+  {
+    "clubName": "Musician Impact Network Society - Simon Fraser University Chapter (MINS SFU)",
+    "imgURL": "https://go.sfss.ca/clubs/626/logo",
+    "description": "MINS is a registered BC non-profit, non-governmental organization with the mission to enhance the lives of vulnerable populations in times of need and foster a culture of community service by musicians.  MINS provides free, quality music performances to Non-Profit Health Care Facilities including Residential Care Facilities and Hospitals.",
+    "email": "minsofsfu@gmail.com",
+    "website": "www.minsmins.org/",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "tech",
+      "club"
+    ]
+  },
+  {
+    "clubName": "The Point",
+    "imgURL": "https://go.sfss.ca/clubs/94/logo",
+    "description": "A club on campus whose goal is to Love God, Love People, Serve All, by hosting events open to those part of The Point Church and to those who are not.  Through worship and service, we aim to foster a positive atmosphere on campus where students can explore what it means to follow Jesus.",
+    "email": "pointchurch@gmail.com",
+    "website": "https://pointchurch.ca/",
+    "university": 1,
+    "tags": [
+      "innovation",
+      "space",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Iranian Club - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/27/logo",
+    "description": "To encourage and promote Iranian culture and heritage among its members. This is achieved through organizing social activities. Iranian Club also tries to improve the link between Iranians and other cultures as we believe in both unity and diversity.",
+    "email": "iranian@sfu.ca",
+    "website": "www.facebook.com/sfu.iranians",
+    "university": 1,
+    "tags": [
+      "social",
+      "dance",
+      "science"
+    ]
+  },
+  {
+    "clubName": "SFU Polyglots",
+    "imgURL": "https://go.sfss.ca/clubs/868/logo",
+    "description": "SFU Polyglots aims to provide a casual and friendly environment for students to meet and discuss all things related to languages, including language acquisition, and language exchange, with fellow members of the SFU community.",
+    "email": "sfu.polyglot@gmail.com",
+    "website": "https://www.instagram.com/sfu.polyglots/",
+    "university": 1,
+    "tags": [
+      "arts",
+      "science",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Ski and Snowboard Club",
+    "imgURL": "https://go.sfss.ca/clubs/629/logo",
+    "description": "The Ski and Snowboard club is focused on bringing together the SFU shred community, regardless of abilities on the slopes! We're just a group of gnarly people looking for more gnarly people to be gnarly with! If you're looking for good times, and to make some turns on the slopes this season, this club is for you!",
+    "email": "sfusnow@sfu.ca",
+    "website": "https://www.facebook.com/sfusnow",
+    "university": 1,
+    "tags": [
+      "food",
+      "arts",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Darkroom Club - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/135/logo",
+    "description": "To provide members of the club with an artistic outlet where they are free to experiment with conventional film photography.",
+    "email": "markn@sfu.ca",
+    "website": "www.facebook.com/groups/8922481078/",
+    "university": 1,
+    "tags": [
+      "health",
+      "arts",
+      "space"
+    ]
+  },
+  {
+    "clubName": "Taiwanese Association - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/148/logo",
+    "description": "SFUTA was established in 1989, We are the bridge between Canada and Taiwan. We are a social and cultural club that promotes an engaging university experience. SFUTA\u6210\u7acb\u65bc1989\u5e74\uff0c\u6211\u5011\u662f\u52a0\u62ff\u5927\u548c\u53f0\u7063\u4e4b\u9593\u7684\u6a4b\u6a11\u3002\u6211\u5011\u662f\u4e00\u500b\u591a\u5143\u6587\u5316\u793e\u5718\uff0c\u65e8\u5728\u4fc3\u9032\u5b78\u751f\u53c3\u8207\u5927\u5b78\u7684\u751f\u6d3b\u9ad4\u9a57\u3002",
+    "email": "lovesfuta@gmail.com",
+    "website": "https://sfuta.square.site/",
+    "university": 1,
+    "tags": [
+      "food",
+      "wellbeing",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Redeemed Christian Fellowship (RCF)",
+    "imgURL": "https://go.sfss.ca/clubs/657/logo",
+    "description": "A People Who Dare To Be Different...Building Lives For Christ",
+    "email": "rcfsfu@yahoo.com",
+    "website": "www.facebook.com/rcfsfu1/",
+    "university": 1,
+    "tags": [
+      "sports",
+      "health",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Christian Students @ SFU",
+    "imgURL": "https://go.sfss.ca/site_images/sfss_logo.png",
+    "description": "\"But flee youthful lusts, and pursue righteousness, faith, love, peace with those who call on the Lord out of a pure heart.\" 2 Timothy 2:22",
+    "email": "christianstudentssfu@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "social",
+      "arts",
+      "health"
+    ]
+  },
+  {
+    "clubName": "UPhoto Photography Club",
+    "imgURL": "https://go.sfss.ca/clubs/211/logo",
+    "description": "Everyone who is interested in photography is welcome to join UPhoto. You don't have to be a professional photographer or own a fancy camera to participate in our events. Our goal is simple: to provide those who are interested in photography a platform to have fun and to learn skills from others!",
+    "email": "uphoto@sfu.ca",
+    "website": "https://www.facebook.com/groups/sfuphotography/",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "tech",
+      "arts"
+    ]
+  },
+  {
+    "clubName": "Somali Students Association",
+    "imgURL": "https://go.sfss.ca/clubs/810/logo",
+    "description": "To provide opportunities and networking experiences for Somali's attending SFU. SSA intends to Initiate and maintain fellowship, while raising awareness of social and political issues within the Somali community. The club also aims to strengthen ties with students of African and Caribbean descent on campus, as it works as a Sub-Association of SOCA.",
+    "email": "simonfraserssa@gmail.com",
+    "website": "https://www.sfusoca.ca/sfu-somali-students-association.html",
+    "university": 1,
+    "tags": [
+      "dance",
+      "innovation",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Students For Humanity",
+    "imgURL": "https://go.sfss.ca/clubs/703/logo",
+    "description": "This humanitarian organization welcomes anyone and everyone. We will spread positive energy, help those in need, and we will not discriminate while dong so. We will provide aid, relief, assistance, promote health and well-being, and address health-related issues. One person can care for a few people, but together, we can heal humanity.",
+    "email": "healinghumanitytogether@gmail.com",
+    "website": "https://discord.gg/RVSq5YSx68",
+    "university": 1,
+    "tags": [
+      "sports",
+      "science",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "SFUnison",
+    "imgURL": "https://go.sfss.ca/clubs/701/logo",
+    "description": "SFUnison is SFU's a cappella group. Have you always wanted to make music, but felt tied down by the thought of committing to playing an instrument? All you need to bring is your voice! We are open to all skill levels!",
+    "email": "sfunison@gmail.com",
+    "website": "https://www.facebook.com/SFUnison/",
+    "university": 1,
+    "tags": [
+      "tech",
+      "sports",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Investment Club - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/29/logo",
+    "description": "To apply our knowledge of investing to encourage members from all faculties to get involved and gain practical experiences in the field of investing to achieve financial independence.",
+    "email": "sfuinvestmentclub20@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "sports",
+      "wellbeing",
+      "science"
+    ]
+  },
+  {
+    "clubName": "SFU Rocketry",
+    "imgURL": "https://go.sfss.ca/clubs/782/logo",
+    "description": "To research, design, and build rockets to compete in rocketry competitions and further the understanding and competency of SFU students in the field of engineering.",
+    "email": "Rocketry@sfu.ca",
+    "website": "www.facebook.com/SFURocketry/",
+    "university": 1,
+    "tags": [
+      "social",
+      "sports",
+      "science"
+    ]
+  },
+  {
+    "clubName": "Jesus Disciples Movement",
+    "imgURL": "https://go.sfss.ca/clubs/591/logo",
+    "description": "We follow Christ\u2019s last Great Commission. Being a Christian is about imitating Christ\u2019s life of love, serving, and sacrificing for others. We wish to share these values to the SFU student community and train them to be Christ-like, so that they can teach others to the same and in this way it can positively impact the world. (Korean club)",
+    "email": "jpa105@sfu.ca",
+    "website": "https://jdmcanada2019.wixsite.com/jdmcanada",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "arts",
+      "space"
+    ]
+  },
+  {
+    "clubName": "Surrey Badminton Club - SFU - Surrey",
+    "imgURL": "https://go.sfss.ca/clubs/142/logo",
+    "description": "Promote the sport of Badminton to all students at SFU, especially at the Surrey Campus. This club is for any skill level/gender and will enforce a safe-zone to all participants.",
+    "email": "sfu-smash@sfu.ca",
+    "website": "https://www.facebook.com/groups/SFUSmashBadmintonClub/",
+    "university": 1,
+    "tags": [
+      "food",
+      "tech",
+      "science"
+    ]
+  },
+  {
+    "clubName": "Today's BC Young Liberals",
+    "imgURL": "https://go.sfss.ca/clubs/689/logo",
+    "description": "Today's BC Young Liberals at SFU hopes to provide unique and exciting opportunities for students to participate within the political community and engage with other like-minded individuals.",
+    "email": "bcylsfu@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "food",
+      "science",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Bowling 300",
+    "imgURL": "https://go.sfss.ca/clubs/856/logo",
+    "description": "To provide an opportunity for students on campus to learn about the leisure activity of bowling and improve their skills through participation. We hope to make every interaction with this club a STRIKE!",
+    "email": "sfss_bowl300@sfu.ca",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "food",
+      "tech",
+      "sports"
+    ]
+  },
+  {
+    "clubName": "SFU LYFE",
+    "imgURL": "https://go.sfss.ca/clubs/811/logo",
+    "description": "Learn. Live. Inspire. SFU LYFE is a personal and professional development platform that hosts both social events as well as career development ones as we emphasize having a work-life balance. We also run a variety of projects so be sure to check out Insta out @sfulyfe.",
+    "email": "sfulyfe@gmail.com",
+    "website": "https://sfulyfe.com/",
+    "university": 1,
+    "tags": [
+      "dance",
+      "science",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Pre-Vet Club",
+    "imgURL": "https://go.sfss.ca/clubs/299/logo",
+    "description": "The SFU Pre-Vet Club aims to connect students considering a career in veterinary medicine. This provides a place where students can discuss hot topics related to the career, attend vet/animal related events, and share their experience in the veterinary world. This will serve to better prepare students for vet school and for the job itself.",
+    "email": "sfuprevetclub@gmail.com",
+    "website": "https://www.facebook.com/sfuprevet/",
+    "university": 1,
+    "tags": [
+      "social",
+      "science",
+      "space"
+    ]
+  },
+  {
+    "clubName": "SFU Blood, Organ, and Stem Cell Club",
+    "imgURL": "https://go.sfss.ca/clubs/677/logo",
+    "description": "SFU Blood, Organ, and Stem Cell Club aims to raise awareness about the need for blood, organ and stem cell donors while providing students/members of the SFU community the opportunity to join this cause.",
+    "email": "blood@sfu.ca",
+    "website": "www.facebook.com/SFUBloodOrganStemCell/",
+    "university": 1,
+    "tags": [
+      "wellbeing",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "clubName": "Accounting Student Association - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/123/logo",
+    "description": "The SFU Accounting Student Association (ASA) is an organization made up of highly-dedicated students with the mission of assisting student towards their professional life. In order to accomplish this mission, our association provides three types of services: facilitation of information and networking, self-growth, and fellowship.",
+    "email": "asa-exec@sfu.ca",
+    "website": "www.sfuasa.com",
+    "university": 1,
+    "tags": [
+      "arts",
+      "innovation",
+      "space"
+    ]
+  },
+  {
+    "clubName": "Enactus SFU",
+    "imgURL": "https://go.sfss.ca/clubs/98/logo",
+    "description": "To encourage entrepreneurship on our campuses and in the community through our various programs. We consider the relevant economic, social and environmental factors to effectively empower people in need\r\nby applying business and economic concepts and an entrepreneurial approach to improve their quality of life and standard of living.",
+    "email": "president@enactussfu.com",
+    "website": "www.enactussfu.com",
+    "university": 1,
+    "tags": [
+      "social",
+      "cultural",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Punjabi Student Association - SFU",
+    "imgURL": "https://go.sfss.ca/clubs/111/logo",
+    "description": "The Simon Fraser University Punjabi Student Association was established by SFU students in 1996. The PSA has created an avenue for students at SFU to discover and celebrate the richness of  Punjabi culture along with allowing students to make positive contributions in the community.",
+    "email": "thesfupsa@gmail.com",
+    "website": "http://www.thesfupsa.com",
+    "university": 1,
+    "tags": [
+      "tech",
+      "science",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "SFU Befikre Dance Team",
+    "imgURL": "https://go.sfss.ca/clubs/498/logo",
+    "description": "SFU Befikre (bae-fik-ray-carefree) Dance Team is a group inspired by South Asian dance styles and Bollywood free style.",
+    "email": "sfubefikre@gmail.com",
+    "website": "www.facebook.com/sfubefikre/",
+    "university": 1,
+    "tags": [
+      "food",
+      "social",
+      "arts"
+    ]
+  },
+  {
+    "clubName": "Young Women in Business SFU",
+    "imgURL": "https://go.sfss.ca/clubs/146/logo",
+    "description": "YWiB SFU strives to engage leaders from all faculties through opportunities for personal and professional growth. We encourage members to achieve success on their own terms through our programs that focus on mentorship, networking, philanthropy and tangible skill building.\r\nTo join YWiB please apply via our website:\r\nwww.ywib.ca/sfu/programs",
+    "email": "sfupres@ywib.ca",
+    "website": "www.ywib.ca/sfu",
+    "university": 1,
+    "tags": [
+      "tech",
+      "arts",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Bangladesh Students' Alliance",
+    "imgURL": "https://go.sfss.ca/clubs/485/logo",
+    "description": "Promote the heritage of Bangladesh at SFU. Provide assistance to both new and existing students from Bangladesh. Organize social & cultural events to create a multicultural acquaintanceship within the SFU community.",
+    "email": "bsa.sfu@gmail.com",
+    "website": "www.facebook.com/groups/278308918985146/",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "friendship",
+      "club"
+    ]
+  },
+  {
+    "clubName": "SFU Hanfu Culture Society",
+    "imgURL": "https://go.sfss.ca/clubs/637/logo",
+    "description": "We aim to raise the awareness of many lost/endangered aspects of Chinese traditional culture with an emphasis on clothing, also known as the Hanfu.",
+    "email": "hanfuclub@gmail.com",
+    "website": "vanhanfu.wordpress.com/",
+    "university": 1,
+    "tags": [
+      "food",
+      "arts",
+      "innovation"
+    ]
+  },
+  {
+    "clubName": "Smash Club",
+    "imgURL": "https://go.sfss.ca/site_images/sfss_logo.png",
+    "description": "To provide a place for students to play the popular video game franchise Super Smash Bros., both competitively and casually.",
+    "email": "sfusmashclub@gmail.com",
+    "website": "www.facebook.com/groups/1467667903494499/",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "wellbeing",
+      "health"
+    ]
+  },
+  {
+    "clubName": "International Trading Card Games Club @ SFU",
+    "imgURL": "https://go.sfss.ca/clubs/433/logo",
+    "description": "Trading card games are very popular all throughout the world, the International Trading Card Games Club is a club designed to support those who enjoy playing TCGs or want to give it a try. We support a wide variety of TCGs such as Magic: The Gathering and Weiss Schwarz.",
+    "email": "itcgsfu@gmail.com",
+    "website": "www.facebook.com/groups/431248533591363/",
+    "university": 1,
+    "tags": [
+      "sports",
+      "innovation",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Hiking Club",
+    "imgURL": "https://go.sfss.ca/clubs/622/logo",
+    "description": "To be up on a new mountaintop or leave footprints on a new hiking trail every chance that we get. And once we've exhausted every trail, park, terrain, peak, and forest in BC, we'll wake up one day and do it all over again.",
+    "email": "hikers@sfu.ca",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "cultural",
+      "wellbeing",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Power to Change (P2C)",
+    "imgURL": "https://go.sfss.ca/site_images/sfss_logo.png",
+    "description": "To help students discover Jesus. We want to add spiritual value to students' lives during their time in university by providing them with opportunities to explore spiritual things through meaningful conversations in the context of discussion groups, meetings and special events.",
+    "email": "p2csfu@sfu.ca",
+    "website": "https://p2c.com/students/campus/simon-fraser-university/",
+    "university": 1,
+    "tags": [
+      "sports",
+      "wellbeing",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Evangelical Chinese Bible Fellowship",
+    "imgURL": "https://go.sfss.ca/clubs/586/logo",
+    "description": "Our Fellowship is composed of Chinese friends who graduate or study at SFU,  who love and follow Jesus with 10 years\u2019 history.  We study bible together and share gospel to people who interested in Christianity with special focus on SFU international students, scholars and families from China through various events on and off campus.",
+    "email": "info@sfufellowship.org",
+    "website": "www.sfufellowship.org",
+    "university": 1,
+    "tags": [
+      "social",
+      "dance",
+      "space"
+    ]
+  },
+  {
+    "clubName": "AKSCE",
+    "imgURL": "https://go.sfss.ca/clubs/33/logo",
+    "description": "The Association of Korean Canadian Scientists and Engineers promotes interest in the area of science and engineering.",
+    "email": "sfu.akcse@gmail.com",
+    "website": "https://www.facebook.com/groups/sfu.akcse/",
+    "university": 1,
+    "tags": [
+      "innovation",
+      "space",
+      "friendship"
+    ]
+  },
+  {
+    "clubName": "Satellite Design Club",
+    "imgURL": "https://go.sfss.ca/clubs/644/logo",
+    "description": "To discuss, design, plan, and build artificial satellites and their mission profiles.",
+    "email": "SFUSat@sfu.ca",
+    "website": "sfusat.org",
+    "university": 1,
+    "tags": [
+      "space",
+      "friendship",
+      "club"
+    ]
+  },
+  {
+    "clubName": "Social Games Club",
+    "imgURL": "https://go.sfss.ca/site_images/sfss_logo.png",
+    "description": "The reason we build this club is we want to provide a place which can encourage students express their own feelings and make clsose connection to each other during the social games. Also, during the social games students\u2019 can learn a lot. For example, their communicational abilities and skills can be improved.",
+    "email": "socialgamessfu@gmail.com",
+    "website": "",
+    "university": 1,
+    "tags": [
+      "dance",
+      "arts",
+      "health"
+    ]
+  },
+  {
+    "clubName": "SFU Artists",
+    "imgURL": "https://go.sfss.ca/clubs/708/logo",
+    "description": "A club for artists of any kind to connect and collaborate.",
+    "email": "sfuart@sfu.ca",
+    "website": "https://discord.gg/qaHq4bhQ",
+    "university": 1,
+    "tags": [
+      "dance",
+      "innovation",
+      "health"
+    ]
+  }
+]
