@@ -1,1 +1,0 @@
-# campuspals-scraper-sfu
